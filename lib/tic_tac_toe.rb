@@ -103,3 +103,7 @@ def winner(board)
     winpos
   end
 end
+
+def play()
+  
+end
